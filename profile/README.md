@@ -1,3 +1,3 @@
 In the beginning Eru, the One, who in the Elvish tongue is named Ilúvatar, made the Ainur of his thought; and they made a great Music before him. In this Music the World was begun...
 
-![Ainur members are coding in middle-earth](./ainur-banner.png)
+![Ainur members are coding in middle-earth](./profile/ainur-banner.png)
